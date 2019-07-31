@@ -11,4 +11,4 @@ Third party / external resources:
 - moon background from Google images
 - rock texture from Google images
 
-![](screenshot1.png) ![](screenshot2.png)
+![](https://github.com/tryandev/5coins1jump-unity3d/blob/master/screenshot1.png) ![](screenshot2.png)

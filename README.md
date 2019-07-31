@@ -8,7 +8,7 @@ Created by me:
 - 3D models & texture
 
 Third party / external resources:
-- moon background from Google images
-- rock texture from Google images
+- Moon background from Google images
+- Rock texture from Google images
 
 <img src="screenshot1.png" width="430"><img src="screenshot2.png" width="430">

@@ -10,4 +10,5 @@ Created by me:
 Third party / external resources:
 - moon background from Google images
 - rock texture from Google images
-<img src="https://github.com/tryandev/5coins1jump-unity3d/blob/master/screenshot1.png" width="440">![](screenshot2.png)
+
+<img src="https://github.com/tryandev/5coins1jump-unity3d/blob/master/screenshot1.png" width="440"><img src="https://github.com/tryandev/5coins1jump-unity3d/blob/master/screenshot2.png" width="440">

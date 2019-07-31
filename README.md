@@ -11,4 +11,4 @@ Third party / external resources:
 - moon background from Google images
 - rock texture from Google images
 
-![screenshot](screenshot1.png | width=440) ![screenshot](screenshot2.png | width=440)
+![](screenshot1.png =440x248) ![](screenshot2.png =440x248)
